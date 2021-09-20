@@ -5,7 +5,7 @@
     "author": "Waulta",
     "version": "2.0.1",
     "packageId": "com.AnotherAxiom.GorillaTag",
-    "packageVersion": "1.0.10",
+    "packageVersion": "1.1.0",
     "description": "Upon holding the left or right grip button, a platform will appear under your hand.\nQuest Port of Air Jump by fchb1239",
     "coverImage": "cover.png",
     "type": "Gameplay",
